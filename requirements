@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+folium
+branca
+streamlit-folium
+requests
